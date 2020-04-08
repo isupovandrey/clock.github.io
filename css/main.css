@@ -1,0 +1,19 @@
+div{ /*debug */
+	/* outline: 1px solid #4CAF50; */
+}
+
+body{
+ background-color: #000000;
+}
+
+#clock{
+    left: 0px;
+    right: 0px;
+    width:100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+	
+}
+
+
